@@ -1,0 +1,29 @@
+.tabla{
+ width:400px;
+ margin:auto;
+ margin-top:40px;
+}
+
+.tabla div{
+ border:1px solid #ccc;
+ padding:10px;
+ margin:5px;
+}
+.tabla{
+ width:400px;
+ margin:auto;
+ margin-top:40px;
+}
+
+.fila{
+ display:flex;
+ justify-content:space-between;
+ border:1px solid #ccc;
+ padding:10px;
+ margin:5px;
+}
+
+.titulo{
+ font-weight:bold;
+ background:#f2f2f2;
+}

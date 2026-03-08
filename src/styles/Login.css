@@ -1,0 +1,17 @@
+.login{
+ width:300px;
+ margin:auto;
+ margin-top:40px;
+}
+
+.login input{
+ display:block;
+ width:100%;
+ margin:10px 0;
+ padding:8px;
+}
+
+.login button{
+ padding:8px;
+ width:100%;
+}
