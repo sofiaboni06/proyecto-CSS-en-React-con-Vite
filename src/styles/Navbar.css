@@ -1,5 +1,7 @@
 .menu{
  display:flex;
+ justify-content:center; /* centra horizontalmente */
+ align-items:center; /* centra verticalmente */
  gap:20px;
  background-color:#f2f2f2;
  padding:15px;
